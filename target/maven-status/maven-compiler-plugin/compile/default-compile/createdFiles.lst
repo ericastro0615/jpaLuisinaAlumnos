@@ -1,0 +1,8 @@
+yt\prueba100002\logica\Alumno_.class
+yt\prueba100002\persistencia\exceptions\PreexistingEntityException.class
+yt\prueba100002\Prueba100002.class
+yt\prueba100002\persistencia\exceptions\IllegalOrphanException.class
+yt\prueba100002\logica\Alumno.class
+yt\prueba100002\persistencia\AlumnoJpaController.class
+yt\prueba100002\persistencia\exceptions\NonexistentEntityException.class
+yt\prueba100002\persistencia\ControladoraPersistencia.class
